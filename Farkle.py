@@ -3,8 +3,6 @@
 Farkle Game:
 Programming Language: Python
 Interface: GUI based
-Student Name: Aisha Abdi
-Student ID: 22160571
 
 '''
 
