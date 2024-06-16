@@ -66,6 +66,11 @@ Farkle is a popular dice game where players take turns rolling six dice to score
 ![image](https://github.com/SaadARazzaq/Farkle-Game/assets/123338307/b46b96de-0ada-4500-a9a4-bee1ada40e4a)
 ![image](https://github.com/SaadARazzaq/Farkle-Game/assets/123338307/b8988bb2-b7a0-4998-bf35-26f3395a0d09)
 
+## Test Cases
+
+![image](https://github.com/SaadARazzaq/Farkle-Game/assets/123338307/11e98e9b-ebd1-48af-9bb5-f185ff5b9a63)
+![image](https://github.com/SaadARazzaq/Farkle-Game/assets/123338307/22e462b1-2bea-4a03-ad81-38faf5ff3d40)
+
 ## Developer Notes
 - The game uses the Tkinter library to create the GUI.
 - The game logic handles dice rolls, scoring, turn management, and end-of-game conditions.
